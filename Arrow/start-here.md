@@ -8,6 +8,6 @@ And very handy during any **Penetration Testing**, if nmap is blocked on the net
 
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/commad.png)
 
-It will work against an IP address or any domain name url, just specify the ports separated by commas... and give it few seconds.
+It will work against any IP address or domain name url, just specify the ports separated by commas ... and give it few seconds.
 
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/result.png)
