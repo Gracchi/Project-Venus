@@ -1,6 +1,6 @@
 How many times you wanted to run a quick nmap test to find out that it has been blacklisted.
 
-Venus-Arrow is a simple python script that performs basic nmap tasks.
+**Venus-Arrow** is a simple python script that performs basic nmap tasks.
 Extremly simple to use light weight tool, that will go undetected in most environments.
 It is a handy tool during any **Penetration Testing**, if nmap is blocked on the network you are working with.
 
