@@ -6,7 +6,7 @@ It is extremly simple to use, a light weight tool that will go undetected in mos
 
 And very handy during any **Penetration Testing**, if nmap is blocked on the network you are working with.
 
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/com.png)
+![](https://github.com/Gracchi/Project-Venus/blob/main/docs/commad.png)
 
 It will work against an IP address or any domain name url, just specify the ports separated by commas... and give it few seconds.
 
