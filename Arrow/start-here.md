@@ -1,3 +1,11 @@
+        __     __                           _                           
+        \ \   / /__ _ __  _   _ ___        / \   _ __ _ __ _____      __
+         \ \ / / _ \ '_ \| | | / __|_____ / _ \ | '__| '__/ _ \ \ /\ / /
+          \ V /  __/ | | | |_| \__ \_____/ ___ \| |  | | | (_) \ V  V / 
+           \_/ \___|_| |_|\__,_|___/    /_/   \_\_|  |_|  \___/ \_/\_/  
+
+
+
 How many times you wanted to run a quick nmap test to find out that it has been blacklisted.
 
 **Venus-Arrow** is a simple python script that performs basic nmap tasks.
