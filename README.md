@@ -11,3 +11,10 @@ Project Venus will include both blue and red team shields.
 Always use your knowledge for good, this material is for educational and research purpose only.
 
 The first new tool in this arsenal is Venus **Arrow** --->.
+
+        ____            _           _     __     __                   
+        |  _ \ _ __ ___ (_) ___  ___| |_   \ \   / /__ _ __  _   _ ___ 
+        | |_) | '__/ _ \| |/ _ \/ __| __|___\ \ / / _ \ '_ \| | | / __|
+        |  __/| | | (_) | |  __/ (__| ||_____\ V /  __/ | | | |_| \__ \
+        |_|   |_|  \___// |\___|\___|\__|     \_/ \___|_| |_|\__,_|___/
+                      |__/                                             
