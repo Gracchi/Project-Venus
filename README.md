@@ -11,5 +11,3 @@ Project Venus will include both blue and red team shields.
 Always use your knowledge for good, this material is for educational and research purpose only.
 
 The first new tool in this arsenal is Venus **Arrow** --->.
-
-![](https://github.com/Gracchi/Project-Venus/blob/bf340708990d22aa2f712577a0f6e918978522f2/docs/commad.png)
