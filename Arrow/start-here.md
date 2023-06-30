@@ -6,4 +6,4 @@ Venus Arrow is a simple python script with do basic nmap tasks.
 
 It will work against an IP address or any domain name url, just specify the ports separated by commas... and give it few seconds.
 
-![](https://github.com/Gracchi/Project-Venus/blob/bf340708990d22aa2f712577a0f6e918978522f2/docs/result.png)
+![](https://github.com/Gracchi/Project-Venus/blob/main/docs/result.png)
