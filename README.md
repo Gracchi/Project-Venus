@@ -10,5 +10,5 @@ It’s a labour of love and a work in progress.
 Project Venus will include both blue and red team shields. 
 Always use your knowledge for good, this material is for educational and research purpose only.
 
-The first new tool in this arsenal is **Venus Arrow** --->.
+The first new tool in this arsenal is Venus **Arrow** --->.
 
