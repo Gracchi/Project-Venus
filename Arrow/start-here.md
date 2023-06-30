@@ -10,4 +10,4 @@ And very handy during any **Penetration Testing**, if nmap is blocked on the net
 
 It will work against any IP address or domain name url, just specify the ports separated by commas ... and give it few seconds.
 
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/result.png)
+![](https://github.com/Gracchi/Project-Venus/blob/main/docs/results.png)
