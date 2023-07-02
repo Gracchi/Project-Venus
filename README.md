@@ -9,7 +9,7 @@ Those scripts have been coded, gathered, enhanced, and tested in live environmen
 I kept the code simple, clean as much as possible.
 </br>
 
-This is a labour of love and a work in progress, created by Chadi Saliby aka Gracchi a cybersecurity researcher. 
+This is a labour of love and work in progress, created by Chadi Saliby aka Gracchi a cybersecurity researcher. 
 Project-Venus will include both blue and red team scripts. 
 </br>
 Always use your knowledge for good, this material is for educational and research purposes only.
