@@ -23,4 +23,5 @@ The first new tool in this arsenal is Venus **Arrow** --->.
         |_|   |_|  \___// |\___|\___|\__|     \_/ \___|_| |_|\__,_|___/
                       |__/                                             
 </br>
-** “Knowledge is of no value unless you put it into practice.” –Anton Chekhov **
+
+**Knowledge is of no value unless you put it into practice.**    **-Anton Chekhov**
