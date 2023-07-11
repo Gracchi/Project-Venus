@@ -2,7 +2,6 @@ Dependency to install
 **requests**
 <br>
 Requests is a simple HTTP library for python
-
 Linux
 <br>
 pip install requests
@@ -31,7 +30,7 @@ Generate your API key and paste them into the script and … et voila.
 <br>
 <br>
 VT
-<br>
+
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/VT%20API.png)  
 <br>
 HA
