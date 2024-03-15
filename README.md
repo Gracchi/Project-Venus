@@ -25,3 +25,5 @@ The first new tool in this arsenal is Venus **Arrow** --->.
 </br>
 
 **Knowledge is of no value unless you put it into practice.**    **-Anton Chekhov**
+
+Disclaimer:  All views and opinions expressed here are solely mine.
