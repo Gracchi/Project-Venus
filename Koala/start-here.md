@@ -1,4 +1,4 @@
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala.png)
+![](https://github.com/Gracchi/Project-Venus/blob/main/docs/koala.png)
 <br>
 <br>
 <br>
