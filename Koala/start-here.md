@@ -1,6 +1,7 @@
 <p align="center">
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/koala.png)
+  <img src="https://github.com/Gracchi/Project-Venus/blob/main/docs/koala.png" alt="Koala" width="300">
 </p>
+
 <br>
 <br>
 <br>
