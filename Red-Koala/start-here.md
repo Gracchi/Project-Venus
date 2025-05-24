@@ -1,7 +1,12 @@
 **Red Koala is the little brother of Koala, it will quickly provide you with your device connection status in a friendly way.**
 <br>
 <br>
+<p align="center">
+  
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/redkoala.png)
+  
+</p>
+<br>
 <br>
 Providing:
 <br>
