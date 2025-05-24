@@ -1,5 +1,6 @@
 **Koala PS script that is simple yet powerful DFIR script for comprehensive Windows 10/11 and Windows Server 2022 for a quick system analysis, this script collects extensive forensic information including:**
 <br>
+<br>
 •	User Analysis: Local accounts, creation details, current sessions
 <br>
 •	System Status: Uptime, boot time, OS details, memory usage
