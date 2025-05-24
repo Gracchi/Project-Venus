@@ -5,6 +5,7 @@
 <br>
 Providing:
 <br>
+<br>
 Protocol Type.
 <br>
 Local and Remote Addresses.
@@ -16,15 +17,18 @@ Process ID, Name, Path and Description.
 Most Important, Creation Time.
 <br>
 <br>
-If your PowerShell policy execution blocks it, used this and it will execute and save it as a csv":
+If your PowerShell policy execution blocks it, used this and it will execute and save it as a csv:
 <br>
 PS  -ExecutionPolicy Bypass -File .\red-koala.ps1 -ExportCsv "redkoala.csv"
+<br>
 <br>
 <br>
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/redkoala1.png)
 <br>
 <br>
+<br>
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/redkoala2.png)
+<br>
 <br>
 <br>
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/redkoala3.png)
