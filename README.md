@@ -1,19 +1,14 @@
 # Project Venus
 
-In the realm of cybersecurity, the roles of penetration testers and defenders are crucial in ensuring the resilience of computer systems and protecting against ever-evolving threats.
-As cyber threats continue to evolve and grow in sophistication, the need for robust and effective security measures is more critical than ever.
+Real cybersecurity is challenging, the roles of penetration testers and defenders are pivotal in safeguarding digital systems and ensuring their resilience against increasingly sophisticated threats. As the complexity of cyberattacks grows, the demand for robust, effective security tools has never been greater.
 </br>
-Project-Venus is an arsenal of python scripts, designed to empower penetration testers and defenders in their efforts to identify vulnerabilities, conduct thorough assessments, and fortify the defences of digital infrastructures. 
-</br>
-Those scripts have been coded, gathered, enhanced, and tested in live environments.
-I kept the code simple, clean as much as possible.
+Project-Venus is a curated arsenal of Python and PowerShell scripts developed to assist both red, blue and purple teams in identifying vulnerabilities, performing comprehensive assessments, and strengthening the defences of digital infrastructures. These scripts have been individually crafted, refined, and tested in real-world environments, with an emphasis on clarity and simplicity in the code.</br>
 </br>
 
-This is a labour of love and work in progress, created by Chadi Saliby aka Gracchi a cybersecurity researcher. 
-Project-Venus will include both blue and red team scripts. 
+This project is a labour of love and an ongoing effort by Chadi Saliby (aka Gracchi), a cybersecurity researcher dedicated to supporting the community. Project-Venus is designed to serve both offensive and defensive security needs.
 </br>
-Always use your knowledge for good, this material is for educational and research purposes only.
-
+This material is intended solely for educational and research purposes. Always use your knowledge ethically and responsibly.
+</br>
 The first new tool in this arsenal is Venus **Arrow** --->.
 
         ____            _           _     __     __                   
