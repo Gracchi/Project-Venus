@@ -6,9 +6,13 @@
 Providing:
 <br>
 Protocol Type.
+<br>
 Local and Remote Addresses.
+<br>
 State (Listen, Bound, Established, Closed).
+<br>
 Process ID, Name, Path and Description.
+<br>
 Most Important, Creation Time.
 <br>
 <br>
