@@ -3,11 +3,12 @@
 </p>
 
 <br>
+
+
+**Koala is a PS script that is simple yet powerful DFIR script for comprehensive Windows 10/11 and Windows Server 2022 for a quick system analysis, this script collects extensive forensic information including:**
 <br>
-<br>
-**Koala PS script that is simple yet powerful DFIR script for comprehensive Windows 10/11 and Windows Server 2022 for a quick system analysis, this script collects extensive forensic information including:**
-<br>
-<br>
+
+
 •	User Analysis: Local accounts, creation details, current sessions
 <br>
 •	System Status: Uptime, boot time, OS details, memory usage
@@ -26,7 +27,7 @@
 <br>
 <br>
 
-Usage:
+**Usage:**
 <br>
 .\koala.ps1 -OutputPath "C:\Investigation"
 <br>
@@ -35,7 +36,7 @@ The report will be a text file, created with the date and time format.
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala1.png)
 <br>
 <br>
-Koala will automatically:
+**Koala will automatically:**
 <br>
 •	Creates timestamped reports
 <br>
@@ -45,10 +46,10 @@ Koala will automatically:
 <br>
 •	Provides both console output and file logging
 <br>
-•	Focuses on IOCs and suspicious activities
+•	Focuses on IOCs and suspicious activities (Making progress, but it is generating false positives)
 <br>
 <br>
-Koala Forensic Value:
+**Koala Forensic Value:**
 <br>
 •	Timeline reconstruction capabilities
 <br>
@@ -63,5 +64,6 @@ Koala Forensic Value:
 <br>
 
 The script is designed to be run quickly on live systems while preserving evidence integrity as much as possible, and providing actionable intelligence for your DFIR investigation.
+<br>
 <br>
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala2.png)
