@@ -1,15 +1,15 @@
-**Red Koala is the little brother of Koala, it will quickly provide you with your device connection status in a friendly way.**
-<br>
-<br>
 <p align="center">
-  
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/redkoala.png)
-  
+  <img src="https://github.com/Gracchi/Project-Venus/blob/main/docs/redkoala0.png" alt="Koala" width="300">
 </p>
 <br>
 <br>
-Providing:
+
+
+**RedKoala is the little brother of Koala, it will quickly provide you with your device connection status in a friendly way.**
 <br>
+<br>
+
+**Providing:**
 <br>
 Protocol Type.
 <br>
