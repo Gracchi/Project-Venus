@@ -14,7 +14,7 @@ Usage:
 .\koala.ps1 -OutputPath "C:\Investigation"
 The report will be a text file, created with the date and time format.
 
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala1.png
+![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala1.png)
 
 Koala will automatically:
 
@@ -35,4 +35,4 @@ Koala Forensic Value:
 
 The script is designed to be run quickly on live systems while preserving evidence integrity as much as possible, and providing actionable intelligence for your DFIR investigation.
 
-![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala2.png
+![](https://github.com/Gracchi/Project-Venus/blob/main/docs/Koala2.png)
