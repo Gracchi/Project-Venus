@@ -1,6 +1,6 @@
 ﻿# Koala DFIR Script for Windows 10/11, works on Windows Server 2022.
 # Author: Gracchi - CAS
-# This is a Comprehensive system information gathering for DFIR investigations. 
+# This is a comprehensive system information gathering for DFIR investigations. 
 
 param(
     [string]$OutputPath = "C:\Koala_DFIR_Output"
