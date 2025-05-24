@@ -1,4 +1,6 @@
+<p align="center">
 ![](https://github.com/Gracchi/Project-Venus/blob/main/docs/koala.png)
+</p>
 <br>
 <br>
 <br>
